@@ -20,3 +20,15 @@ To analyze the dataset, we can use the `pandas` library to read and manipulate t
 import pandas as pd
 
 sales_data = pd.read_csv('sales_dashboard_data.csv')
+
+Once we have loaded the data into a pandas DataFrame, we can perform various analyses, such as calculating the sum of revenue or units sold by month, state, or beverage brand.
+
+Here's an example of how to calculate the sum of revenue by beverage brand:
+
+revenue_by_brand = sales_data.groupby('Beverage Brand')['Price per Unit', 'Units Sold'].agg(
+    'sum'
+).rename(columns={'Price per Unit': 'Total Revenue'})
+
+This will give us a DataFrame with the total revenue for each beverage brand.
+
+Remember to replace 'sales_dashboard_data.csv' with the actual path to your dataset file.
