@@ -1,3 +1,7 @@
+-- =========================================================================================================
+Please see SQL_Project.pdf for coded explanation
+-- =========================================================================================================
+  
 INSERT INTO property_sales VALUES ('2045', '007 00 0 125.00', 'SINGLE FAMILY', '1808  FOX CHASE DR, GOODLETTSVILLE', 'April 9, 2013', '240000', '20130412-0036474', 'No', 'FRAZIER, CYRENTHA LYNETTE', '1808  FOX CHASE DR, GOODLETTSVILLE, TN', '2.3', 'GENERAL SERVICES DISTRICT', '50000.0', '168200.0', '235700.0', '1986.0', '3.0', '3.0', '0.0');
 INSERT INTO property_sales VALUES ('16918', '007 00 0 130.00', 'SINGLE FAMILY', '1832  FOX CHASE DR, GOODLETTSVILLE', 'June 10, 2014', '366000', '20140619-0053768', 'No', 'BONER, CHARLES & LESLIE', '1832  FOX CHASE DR, GOODLETTSVILLE, TN', '3.5', 'GENERAL SERVICES DISTRICT', '50000.0', '264100.0', '319000.0', '1998.0', '3.0', '3.0', '2.0');
 INSERT INTO property_sales VALUES ('54582', '007 00 0 138.00', 'SINGLE FAMILY', '1864 FOX CHASE  DR, GOODLETTSVILLE', 'September 26, 2016', '435000', '20160927-0101718', 'No', 'WILSON, JAMES E. & JOANNE', '1864  FOX CHASE DR, GOODLETTSVILLE, TN', '2.9', 'GENERAL SERVICES DISTRICT', '50000.0', '216200.0', '298000.0', '1987.0', '4.0', '3.0', '0.0');
