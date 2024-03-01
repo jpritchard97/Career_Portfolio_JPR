@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @jpritchard97
+- 👀 I’m interested in environmental data analytics using Python, SQL & PowerBI
+- 🌱 I’m currently learning programming, data analytics and environmental sciences
+- 💞️ I’m an MChem graduate w/ a passion for science
+- 📫 How to reach me jpritchard23@outlook.com
+- 😄 Pronouns: He/Him/They/Them
+- ⚡ Fun fact: I have a cat named Linda and an axolotl named Piggy
